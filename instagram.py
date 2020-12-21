@@ -8,7 +8,7 @@ from instapy.util import smart_run
 
 # login credentials
 insta_username = 'accountforpythonlearning'
-insta_password = 'dmdenl1004'
+insta_password = 'password'
 session = InstaPy(username=insta_username,
                   password=insta_password,
                   headless_browser=False)
